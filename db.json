@@ -13,9 +13,7 @@
         "lat": "-37.3159",
         "lng": "81.1496"
       }
-    },
-
-   
+    }
   },
   {
     "id": 2,
@@ -32,7 +30,13 @@
         "lng": "-34.4618"
       }
     },
-    
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
   },
   {
     "id": 3,
@@ -49,7 +53,13 @@
         "lng": "-47.0653"
       }
     },
-   
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
   },
   {
     "id": 4,
@@ -66,7 +76,13 @@
         "lng": "-164.2990"
       }
     },
-    
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+    }
   },
   {
     "id": 5,
